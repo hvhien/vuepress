@@ -1,0 +1,13 @@
+{
+  "name": "vuepress_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev "
+  },
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.7.1",
+    "vuepress": "^1.7.1"
+  }
+}
